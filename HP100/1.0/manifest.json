@@ -1,6 +1,11 @@
 {
   "sources": [
     {
+      "version": "1.5",
+      "file": "helvestES400-1.5.firmware.hex",
+      "checksum": "0760150ac75c8ac46877d5a0b75f6936"
+    },
+    {
       "version": "1.3",
       "file": "helvestES400-1.3.firmware.hex",
       "checksum": "dbca331f5cf28528b17c2f73caceb079"
