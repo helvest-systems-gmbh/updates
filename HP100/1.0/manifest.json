@@ -1,29 +1,14 @@
 {
   "sources": [
     {
-      "version": "1.5",
-      "file": "helvestES400-1.5.firmware.hex",
-      "checksum": "89c511b62cf32fb070aeb7dc361a9801"
-    },
-    {
-      "version": "1.4",
-      "file": "helvestES400-1.4.firmware.hex",
-      "checksum": "38d3e2540864aac94677caa292e991eb"
-    },
-    {
-      "version": "1.3",
-      "file": "helvestES400-1.3.firmware.hex",
-      "checksum": "b97ed1575c9a9182b72ca303ba551264"
-    },
-    {
       "version": "1.2",
       "file": "helvestES400-1.2.firmware.hex",
-      "checksum": "31ea88e642c191ed4a29dafd06d180e2"
+      "checksum": "cf2a56daf855bec9f6bfa12004b20421"
     },
     {
       "version": "1.1",
       "file": "helvestES400-1.1.firmware.hex",
-      "checksum": "4cc5114eca8ee5dd3b3738b37a48bd76"
+      "checksum": "1d62902a32c75d5f2bdedf7fa8eb8a70"
     }
   ]
 }
