@@ -1,5 +1,10 @@
 [
   {
+    "version": "2.5",
+    "file": "hp100.firmware.hex",
+    "checksum": "95632bf7628811175e7aacb6386e9750"
+  },
+  {
     "version": "2.1",
     "file": "helvestES400-2.1.firmware.hex",
     "checksum": "6d39b77a28f6a2038fa74507b1314a00"
